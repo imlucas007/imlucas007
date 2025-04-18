@@ -26,6 +26,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubimlucas007.com/imlucas007/imlucas007/output/github-snake.svg">
 </picture>
 
+<a href="https://github.com/0xEtherPunk">
+  <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?imlucas007=0xEtherPunk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&cache_seconds=2700" />
+</a>
+
 ##
 
 <img align="center" height="150" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
