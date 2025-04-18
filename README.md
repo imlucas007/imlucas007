@@ -27,7 +27,7 @@
 </picture>
 
 <a href="https://github.com/imlucas007">
-  <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?imlucas007=0xEtherPunk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&cache_seconds=2700" />
+  <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?imlucas007=imlucas007&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&cache_seconds=2700" />
 </a>
 
 ##
