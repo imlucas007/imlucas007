@@ -20,9 +20,11 @@
 
 ##
 
-![Snake animation](https://github.com/imlucas007/imlucas007/blob/outout/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=imlucas007&repo=imlucas007&theme=react)](https://github.com/imlucas007/imlucas007)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imlucas007/imlucas007/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imlucas007/imlucas007/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imlucas007/imlucas007/output/github-snake.svg">
+</picture>
 
 ##
 
