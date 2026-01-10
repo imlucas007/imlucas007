@@ -1,41 +1,57 @@
-<h1 align="center">👋 Olá, eu sou o Lucas!</h1>
+# <h1>👋 Olá, eu sou o Lucas Simões!</h1>
 
 <p align="center">
-  🎓 Web Designer <br>
-  💻 Desenvolvedor Front-End apaixonado por tecnologia <br>
-  🚀 Sempre aprendendo e explorando novas ideias!
+  <strong>Front-End Developer | Web Designer | UI/UX</strong><br>
+  Transformando ideias em interfaces funcionais, performáticas e visualmente impecáveis.
 </p>
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <br>
-
-  [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-  [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-  [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-  [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]() 
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
-  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF)]()
-  [![InDesign](https://img.shields.io/badge/InDesign-FF41B4?style=for-the-badge&logo=adobe-indesign&logoColor=white)]()
-
-
-
-
-</p>
-
----
-
-### 📊 Estatísticas
 
 <p align="center">
-  <a href="https://github.com/imlucas007">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imlucas007&show_icons=true&theme=radical&hide_border=true" />
+  <a href="https://www.linkedin.com/in/lucas-simões-0a1581249">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="SEU_LINK_DE_PORTFOLIO_AQUI">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 ---
+
+### 🚀 Sobre Mim
+
+[cite_start]Sou um desenvolvedor Front-End com perfil híbrido, unindo a base técnica em Informática pelo **IFSP** à especialização em Web Design pela **FIAP**[cite: 11, 12]. Tenho foco em criar experiências digitais que equilibram estética e usabilidade.
+
+- [cite_start]💻 Atuei na **JOTEC Empresarial** com foco em manutenção de interfaces e refatoração de código[cite: 7].
+- 🎨 Especialista em converter protótipos de alta fidelidade em código limpo e responsivo.
+- [cite_start]🌍 Inglês avançado para documentação e colaboração global[cite: 19].
+
+---
+
+### 🛠️ Toolbox (Tecnologias e Ferramentas)
+
+#### **Front-End & Frameworks**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+#### **Design & UI/UX**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+
+#### **Back-End & Databases**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imlucas007&show_icons=true&theme=radical&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlucas007&layout=compact&theme=radical&hide_border=false" />
+</p>
