@@ -18,11 +18,11 @@
 
 ### 🚀 Sobre Mim
 
-[cite_start]Sou um desenvolvedor Front-End com perfil híbrido, unindo a base técnica em Informática pelo **IFSP** à especialização em Web Design pela **FIAP**[cite: 11, 12]. Tenho foco em criar experiências digitais que equilibram estética e usabilidade.
+Sou um desenvolvedor Front-End com perfil híbrido, unindo a base técnica em Informática pelo **IFSP** à especialização em Web Design pela **FIAP**. Tenho foco em criar experiências digitais que equilibram estética e usabilidade.
 
-- [cite_start]💻 Atuei na **JOTEC Empresarial** com foco em manutenção de interfaces e refatoração de código[cite: 7].
+- 💻 Já atuei em empresa com foco em manutenção de interfaces e refatoração de código.
 - 🎨 Especialista em converter protótipos de alta fidelidade em código limpo e responsivo.
-- [cite_start]🌍 Inglês avançado para documentação e colaboração global[cite: 19].
+- 🌍 Inglês avançado para documentação e colaboração global.
 
 ---
 
