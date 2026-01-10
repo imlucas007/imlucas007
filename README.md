@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-simões-0a1581249">
+  <a href="https://www.linkedin.com/in/lucas-sim%C3%B5es-0a1581249/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="SEU_LINK_DE_PORTFOLIO_AQUI">
+  <a href="https://lucaswebdesign.com.br/">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
@@ -48,10 +48,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imlucas007&show_icons=true&theme=radical&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlucas007&layout=compact&theme=radical&hide_border=false" />
-</p>
