@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-sim%C3%B5es-0a1581249/">
+  <a href="www.linkedin.com/in/lcsimoes">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://lucaswebdesign.com.br/">
+  <a href="https://rascunhoco.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
